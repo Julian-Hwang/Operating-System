@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="shell.c">
+    <ClCompile Include="background_shell.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
