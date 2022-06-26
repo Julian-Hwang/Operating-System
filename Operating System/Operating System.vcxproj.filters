@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="linkedlist.c">
+    <ClCompile Include="fifo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
