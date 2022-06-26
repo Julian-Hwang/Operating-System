@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pthread_join.c">
+    <ClCompile Include="race_condition.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
