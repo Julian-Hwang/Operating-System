@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="race_condition.c">
+    <ClCompile Include="race_condition_solve.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
